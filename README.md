@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @jojoo99
-- 👀 I’m interested in ssafy.
-- 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<!-- 프로필 소개 -->
+# Hey there! 👋
+I'm 서현, a passionate developer interested in SSAFY. Welcome to my GitHub profile!
 
-<!---
-jojoo99/jojoo99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- 기술 스택 -->
+## Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+
