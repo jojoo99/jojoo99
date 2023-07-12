@@ -9,4 +9,4 @@ I'm 서현, a passionate developer interested in SSAFY. Welcome to my GitHub pro
 
 <!-- GitHub 활동 -->
 ## GitHub Activity
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ssafyguy&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jojoo99&show_icons=true&theme=radical)
